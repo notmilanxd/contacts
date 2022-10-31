@@ -58389,9 +58389,9 @@ N(a){return new A.tl(B.Fb,"not milan",A.adp(null,B.fC,null),!1,null)}}
 A.uI.prototype={
 ah(){return new A.JV(B.k)}}
 A.JV.prototype={
-MP(){if(A.cT()===B.G||A.cT()===B.N)return 50
+MP(){if(A.cT()===B.G||A.cT()===B.N)return 25
 else return 100},
-MQ(){if(A.cT()===B.G||A.cT()===B.N)return this.c.W(t.w).f.a.a
+MQ(){if(A.cT()===B.G||A.cT()===B.N)return this.c.W(t.w).f.a.a-5
 else return 450},
 N(a){var s,r,q,p,o,n=null,m="not milan",l="@notmilanxd",k=A.Z5(n,this.MP(),n),j=this.MQ(),i=t.F
 j=A.vi(B.ep,A.a([B.Gu,A.m_(n,A.e5(n,n,n,new A.cL(B.d0,n,n,B.aS,A.a([new A.ha(5,B.er,A.aF(B.d.bd(127.5),0,0,0),B.EF,7)],t.xq),n,B.X),228,n,n,j),n,n,n,n,100,n),A.m_(n,A.e5(n,n,n,new A.cL(n,B.w_,A.z4(B.d0,B.GH,7),n,n,n,B.vM),150,n,n,150),n,n,n,n,10,n),A.m_(n,A.a8v(A.a([A.fU(m,A.fz(B.Ib),n,n),A.fU(l,A.fz(B.Hz),n,n),B.uy,A.e5(n,n,B.Ep,n,1,n,n,150),B.uy,A.Xx(A.a([A.fU("\ud83c\udf82 ",A.fz(B.jZ),n,n),A.fU("17 years",A.fz(B.jY),n,n)],i),B.bF),B.uz,A.Xx(A.a([A.fU("\ud83c\udde6\ud83c\uddf9 ",A.fz(B.jZ),n,n),A.fU("Austria",A.fz(B.jY),n,n)],i),B.bF),B.uz,A.Xx(A.a([A.fU("\ud83d\udcbb ",A.fz(B.jZ),n,n),A.fU("Currently learning:",A.fz(B.jY),n,n),B.Gv,B.KV,B.ux,B.KX,B.ux,B.KW],i),B.bF)],i),B.eP,B.bF),n,n,n,n,170,n)],i),B.a0,B.cI)
